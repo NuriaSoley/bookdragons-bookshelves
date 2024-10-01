@@ -16,19 +16,15 @@
       "authorId": "_lJiYON"
     },
     {
-      "id": 3,
       "title": "The Burning God",
-      "author": "R.F. Kuang",
       "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584965579i/45857086.jpg",
-      "published": 2020,
-      "pages": 622,
-      "genre": "Fantasy",
-      "serie": true,
+      "author": "R.F. Kuang",
       "summary": "After saving her nation of Nikan from foreign invaders and battling the evil Empress Su Daji in a brutal civil war, Fang Runin was betrayed by allies and left for dead. Despite her losses, Rin hasn’t given up on those for whom she has sacrificed so much—the people of the southern provinces and especially Tikany, the village that is her home. Returning to her roots, Rin meets difficult challenges—and unexpected opportunities. While her new allies in the Southern Coalition leadership are sly and untrustworthy, Rin quickly realizes that the real power in Nikan lies with the millions of common people who thirst for vengeance and revere her as a goddess of salvation. Backed by the masses and her Southern Army, Rin will use every weapon to defeat the Dragon Republic, the colonizing Hesperians, and all who threaten the shamanic arts and their practitioners. As her power and influence grows, though, will she be strong enough to resist the Phoenix’s intoxicating voice urging her to burn the world and everything in it? ",
+      "pages": 622,
+      "published": null,
+      "genre": "Fantasy",
       "rating": 4,
-      "read": false,
-      "review": "",
-      "authorId": "_lJiYON"
+      "id": 3
     },
     {
       "id": 4,
@@ -359,18 +355,6 @@
       "read": false,
       "review": "",
       "authorId": "_lJiYONA"
-    },
-    {
-      "title": "caperucita",
-      "image": "",
-      "author": "",
-      "summary": "",
-      "pages": 0,
-      "published": 0,
-      "genre": "",
-      "rating": 0,
-      "isASerie": false,
-      "id": 26
     }
   ],
   "authors": [
