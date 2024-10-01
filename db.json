@@ -16,21 +16,6 @@
       "authorId": "_lJiYON"
     },
     {
-      "id": 2,
-      "title": "The Dragon Republic",
-      "author": "R.F. Kuang",
-      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539963703i/41118857.jpg",
-      "published": 2019,
-      "pages": 658,
-      "genre": "Fantasy",
-      "serie": true,
-      "summary": "In the aftermath of the Third Poppy War, shaman and warrior Rin is on the run: haunted by the atrocity she committed to end the war, addicted to opium, and hiding from the murderous commands of her vengeful god, the fiery Phoenix. Her only reason for living is to get revenge on the traitorous Empress who sold out Nikan to their enemies. With no other options, Rin joins forces with the powerful Dragon Warlord, who has a plan to conquer Nikan, unseat the Empress, and create a new Republic. Rin throws herself into his war. After all, making war is all she knows how to do. But the Empress is a more powerful foe than she appears, and the Dragon Warlord’s motivations are not as democratic as they seem. The more Rin learns, the more she fears her love for Nikan will drive her away from every ally and lead her to rely more and more on the Phoenix’s deadly power. Because there is nothing she won’t sacrifice for her country and her vengeance.",
-      "rating": 4,
-      "read": false,
-      "review": "", 
-      "authorId": "_lJiYON"
-    },
-    {
       "id": 3,
       "title": "The Burning God",
       "author": "R.F. Kuang",
@@ -117,7 +102,7 @@
       "summary": "ESPERO QUE NO TE HA YAS OLVIDADO DE MÍ. ¿JUGAMOS? Cuando Antonia Scott recibe este mensaje, sabe muy bien quién se lo envía. También sabe que ese juego es casi imposible de ganar. Pero a Antonia no le gusta perder. Después de todo este tiempo huyendo, la realidad ha acabado alcanzándola. Antonia es cinturón negro en mentirse a sí misma, pero ahora tiene claro que si pierde esta batalla, las habrá perdido todas. -La reina es la figura más poderosa del tablero -dice el Rey Blanco-. Pero por poderosa que sea una pieza de ajedrez, nunca debe olvidar que hay una mano que la mueve. -Eso ya lo veremos-, responde Antonia. EL FINAL ES SOLO EL PRINCIPIO",
       "rating": 5,
       "read": false,
-      "review": "", 
+      "review": "",
       "authorId": "_lJiYOD"
     },
     {
@@ -147,7 +132,7 @@
       "summary": "A tender, laugh-out-loud debut romance about a woman who ends up in over her head after a little white lie . . . When thirty-year-old post-double-mastectomy BRCA 1 carrier and reluctant thrill-seeker Alison Mullally arrives at her ex-boyfriend Sam’s funeral to find that no one knows he dumped her, she agrees to play the grieving girlfriend for the sake of the family and pack up Sam’s apartment with his prickly best friend, Adam Berg. After all, it’ll only take four weekends . . . But Adam doesn’t want Alison anywhere near him. Forced to spend long hours with the grump, and his monosyllabic demeanor, Alison decides she must put her people-pleasing abilities to the test. She will make him like her. And after awkward family affairs and packing up dilemmas, the two form a tenuous friendship . . . if “friendship” means incredible chemistry and tension between them. Can Alison come clean and finally embrace the life and love she's always wanted? Or will her little white lie get in the way of her new, unexpected romance?",
       "rating": 4,
       "read": false,
-      "review": "", 
+      "review": "",
       "authorId": "_lJiYOMSW"
     },
     {
@@ -178,7 +163,7 @@
       "rating": 4,
       "read": false,
       "review": "",
-      "authorId":"_lJiYOMl"
+      "authorId": "_lJiYOMl"
     },
     {
       "id": 13,
@@ -193,7 +178,7 @@
       "rating": 4,
       "read": false,
       "review": "",
-      "authorId":"_lJiYOMl"
+      "authorId": "_lJiYOMl"
     },
     {
       "id": 14,
@@ -208,7 +193,7 @@
       "rating": 4,
       "read": false,
       "review": "",
-      "authorId":"_lJiYOMl"
+      "authorId": "_lJiYOMl"
     },
     {
       "id": 15,
@@ -223,7 +208,7 @@
       "rating": 4,
       "read": false,
       "review": "",
-      "authorId":"_lJiYOMS"
+      "authorId": "_lJiYOMS"
     },
     {
       "id": 16,
@@ -238,7 +223,7 @@
       "rating": 5,
       "read": false,
       "review": "",
-      "authorId":"_lJiYOMS"
+      "authorId": "_lJiYOMS"
     },
     {
       "id": 17,
@@ -253,7 +238,7 @@
       "rating": 4,
       "read": false,
       "review": "",
-      "authorId":"_lJiYOMS"
+      "authorId": "_lJiYOMS"
     },
     {
       "id": 18,
@@ -268,7 +253,7 @@
       "rating": 4,
       "read": false,
       "review": "",
-      "authorId":"_lJiYOMS"
+      "authorId": "_lJiYOMS"
     },
     {
       "id": 19,
@@ -283,7 +268,7 @@
       "rating": 4,
       "read": false,
       "review": "",
-      "authorId":"_lJiYOMS"
+      "authorId": "_lJiYOMS"
     },
     {
       "id": 20,
@@ -298,7 +283,7 @@
       "rating": 4,
       "read": false,
       "review": "",
-      "authorId":"_lJiYOM"
+      "authorId": "_lJiYOM"
     },
     {
       "id": 21,
@@ -313,8 +298,7 @@
       "rating": 4,
       "read": false,
       "review": "",
-      "authorId":"_lJiYOM"
-
+      "authorId": "_lJiYOM"
     },
     {
       "id": 22,
@@ -329,7 +313,7 @@
       "rating": 4,
       "read": false,
       "review": "",
-      "authorId":"_lJiYOM"
+      "authorId": "_lJiYOM"
     },
     {
       "id": 23,
@@ -344,7 +328,7 @@
       "rating": 5,
       "read": false,
       "review": "",
-      "authorId":"_lJiYOM"
+      "authorId": "_lJiYOM"
     },
     {
       "id": 24,
@@ -359,7 +343,7 @@
       "rating": 3,
       "read": false,
       "review": "",
-      "authorId":"_lJiYONA"
+      "authorId": "_lJiYONA"
     },
     {
       "id": 25,
@@ -374,7 +358,19 @@
       "rating": 3,
       "read": false,
       "review": "",
-      "authorId":"_lJiYONA"
+      "authorId": "_lJiYONA"
+    },
+    {
+      "title": "caperucita",
+      "image": "",
+      "author": "",
+      "summary": "",
+      "pages": 0,
+      "published": 0,
+      "genre": "",
+      "rating": 0,
+      "isASerie": false,
+      "id": 26
     }
   ],
   "authors": [
@@ -384,7 +380,6 @@
       "location": "Spain",
       "description": "Arturo Pérez-Reverte Gutiérrez, is a Spanish novelist and ex-journalist. He worked as a war reporter for twenty-one years (1973 - 1994). He started his journalistic career writing for the now-defunct newspaper Pueblo. Then, he jumped to news reporter for TVE, Spanish national channel. As a war journalist he traveled to several countries, covering many conflicts. He put this experience into his book 'Territorio Comanche', focusing on the years of Bosnian massacres. That was in 1994, but his debut as a fiction writer started in 1983, with 'El húsar', a historical novella inspired in the Napoleonic era. Although his debut was not quite successful, in 1988, with 'The Fencing Master', he put his name as a serious writer of historic novels. That was confirmed in 1996, when was published the first book of his Captain Alatriste saga, which has been his trademark. After this book, he could leave definitely journalism for focusing on his career as a fiction writer. This saga, that happens in the years of the Spanish golden age, has seen, for now, seven volumes, where Pérez-Reverte shows, from his particular point of view, historical events from Spanish history in the 16th century. Apart from these, he also penned another successful works like Dumas Club and Flanders Panel, titles that, among others, made Pérez-Reverte one of the most famous and bestseller authors of Spanish fiction of our era.",
       "image": "https://images.gr-assets.com/authors/1415196332p8/40398.jpg"
-      
     },
     {
       "fullName": "Jennifer L. Armentrout",
@@ -395,7 +390,7 @@
     },
     {
       "fullName": "R.F. Kuang",
-      "location": "EE.UU." ,
+      "location": "EE.UU.",
       "description": "Rebecca F. Kuang is a Marshall Scholar, translator, and award-winning, #1 New York Times bestselling author of the Poppy War trilogy and Babel: An Arcane History, among others. She has an MPhil in Chinese Studies from Cambridge and an MSc in Contemporary Chinese Studies from Oxford; she is now pursuing a PhD in East Asian Languages and Literatures at Yale.",
       "id": "_lJiYON",
       "image": "https://images.gr-assets.com/authors/1663158288p8/16820001.jpg"
@@ -403,51 +398,51 @@
     {
       "fullName": "Lisa Jewell",
       "location": "United Kingdom",
-      "description":"Lisa Jewell was born in London in 1968. Her first novel, Ralph's Party, was the best- selling debut novel of 1999. Since then she has written another twenty novels, most recently a number of dark psychological thrillers, including The Girls, Then She Was Gone, The Family Upstairs and The Night She Disappeared. Lisa is a New York Times and Sunday Times number one bestselling author who has been published worldwide in over twenty-five languages. She lives in north London with her husband, two teenage daughters and the best dog in the world.",
+      "description": "Lisa Jewell was born in London in 1968. Her first novel, Ralph's Party, was the best- selling debut novel of 1999. Since then she has written another twenty novels, most recently a number of dark psychological thrillers, including The Girls, Then She Was Gone, The Family Upstairs and The Night She Disappeared. Lisa is a New York Times and Sunday Times number one bestselling author who has been published worldwide in over twenty-five languages. She lives in north London with her husband, two teenage daughters and the best dog in the world.",
       "id": "_lJiYOC",
       "image": "https://images.gr-assets.com/authors/1657723367p8/93504.jpg"
     },
     {
       "fullName": "Juan Gomez-Jurado",
       "location": "Spain",
-      "description": "Juan Gómez-Jurado (December 1977 Madrid, Spain) is an award winning journalist and bestselling author. He is one of the three most successful contemporary Spanish authors along with New York Times bestselling authors Javier Sierra and Carlos Ruiz Zafón. In 2016, Juan celebrated the mark of 6 million readers worldwide. Juan is the author of nine international bestselling novels: GOD’S SPY, THE MOSES EXPEDITION, THE TRAITOR'S EMBLEM, THE LEGEND OF THE THIEF, SCAR, RED QUEEN, BLACK WOLF and WHITE KING. They have been translated into more than 40 languages. He is also the author of the young adult science-fiction series, ALEX COLT SPACE CADET. Juan is an avid reader and traveller. He lives in Spain with Sam, his bad behaviored dog.", 
+      "description": "Juan Gómez-Jurado (December 1977 Madrid, Spain) is an award winning journalist and bestselling author. He is one of the three most successful contemporary Spanish authors along with New York Times bestselling authors Javier Sierra and Carlos Ruiz Zafón. In 2016, Juan celebrated the mark of 6 million readers worldwide. Juan is the author of nine international bestselling novels: GOD’S SPY, THE MOSES EXPEDITION, THE TRAITOR'S EMBLEM, THE LEGEND OF THE THIEF, SCAR, RED QUEEN, BLACK WOLF and WHITE KING. They have been translated into more than 40 languages. He is also the author of the young adult science-fiction series, ALEX COLT SPACE CADET. Juan is an avid reader and traveller. He lives in Spain with Sam, his bad behaviored dog.",
       "id": "_lJiYOD",
       "image": "https://images.gr-assets.com/photos/1680966295p8/4222385.jpg"
     },
     {
       "fullName": "Emily Henry",
       "location": "EE.UU.",
-      "description":"Emily Henry is the #1 New York Times bestselling author of Book Lovers, People We Meet on Vacation, and Beach Read, as well as the forthcoming Happy Place. She lives and writes in Cincinnati and the part of Kentucky just beneath it",
-       "id": "_lJiYOU",
-       "image": "https://images.gr-assets.com/authors/1573928938p8/13905555.jpg"
+      "description": "Emily Henry is the #1 New York Times bestselling author of Book Lovers, People We Meet on Vacation, and Beach Read, as well as the forthcoming Happy Place. She lives and writes in Cincinnati and the part of Kentucky just beneath it",
+      "id": "_lJiYOU",
+      "image": "https://images.gr-assets.com/authors/1573928938p8/13905555.jpg"
     },
     {
       "fullName": "Ellie Palmer",
       "location": "EE.UU",
-      "description":"Ellie Palmer is a lifelong lover of love stories, a carrier of the BRCA1 mutation, and a prototypical Midwesterner who routinely apologizes to inanimate objects when she bumps into them. When she’s not writing romantic comedies featuring delightfully messy characters, she’s at home in Minnesota, eating breakfast food, watching too much reality television, and triple texting her husband about their son.",
-       "id": "_lJiYOMSW",
-       "image": "https://images.gr-assets.com/authors/1703544140p8/25191961.jpg"
+      "description": "Ellie Palmer is a lifelong lover of love stories, a carrier of the BRCA1 mutation, and a prototypical Midwesterner who routinely apologizes to inanimate objects when she bumps into them. When she’s not writing romantic comedies featuring delightfully messy characters, she’s at home in Minnesota, eating breakfast food, watching too much reality television, and triple texting her husband about their son.",
+      "id": "_lJiYOMSW",
+      "image": "https://images.gr-assets.com/authors/1703544140p8/25191961.jpg"
     },
     {
       "fullName": "Colleen Hoover",
       "location": "EE.UU",
       "description": "She grew up in Saltillo, Texas, and graduated from Saltillo High School3​ in 1998. She continued her studies at Texas A&M University-Commerce4​ where she studied social work. She began writing at the age of five but it was not until 2012 that she published her first novel, Amor en verso, which quickly made it onto the New York Times best-seller list. That episode was the beginning that boosted her to become the number one author on the New York Times in 2014 with her book, Maybe Someday, a novel that contains a soundtrack that was made with the collaboration of composer Griffin Peterson. Thanks to this, many reviews were created talking about her works and she even received scores from major platforms.",
-       "id": "_lJiYOMP",
-       "image": "https://images.gr-assets.com/authors/1464032240p8/5430144.jpg"
+      "id": "_lJiYOMP",
+      "image": "https://images.gr-assets.com/authors/1464032240p8/5430144.jpg"
     },
     {
       "fullName": "Brandon Sanderson",
-      "location": "EE.UU" ,
+      "location": "EE.UU",
       "description": "Brandon Sanderson is an American science fiction and fantasy writer. He is best known for the Cosmere universe, in which most of his fantasy novels are set, including the Mistborn and The Stormlight Archive series. Outside of the Cosmere, he has written several young adult and juvenile series, including The Reckoners, the Skyward series, and the Alcatraz series. He is also known for having completed Robert Jordan's high fantasy series The Wheel of Time. Sanderson has created several fantasy graphic novels, including White Sand and Dark One.",
-       "id": "_lJiYOMl",
-       "image": "https://images.gr-assets.com/authors/1721927489p8/38550.jpg"
+      "id": "_lJiYOMl",
+      "image": "https://images.gr-assets.com/authors/1721927489p8/38550.jpg"
     },
     {
       "fullName": "Sarah J. Maas",
       "location": "EE.UU",
-      "description":"Sarah is a 1 New York Times bestselling author whose work, including the Throne of Glass series, is an international best-selling phenomenon. Her books have sold over nine million copies and are published in thirty-seven languages. Sarah was born in New York City but currently lives in Pennsylvania with her husband, son, and dog.",
-       "id": "_lJiYOMS",
-       "image": "https://images.gr-assets.com/authors/1582137198p8/3433047.jpg"
+      "description": "Sarah is a 1 New York Times bestselling author whose work, including the Throne of Glass series, is an international best-selling phenomenon. Her books have sold over nine million copies and are published in thirty-seven languages. Sarah was born in New York City but currently lives in Pennsylvania with her husband, son, and dog.",
+      "id": "_lJiYOMS",
+      "image": "https://images.gr-assets.com/authors/1582137198p8/3433047.jpg"
     }
   ]
 }
