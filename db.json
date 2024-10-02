@@ -406,6 +406,45 @@
       "isASerie": "Yes",
       "authorId": "_JiYOMSP",
       "id": 28
+    },
+    {
+      "title": "The Girl on the Train",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574805682i/22557272.jpg",
+      "author": "Paula Hawkins",
+      "summary": "Rachel catches the same commuter train every morning. She knows it will wait at the same signal each time, overlooking a row of back gardens. She’s even started to feel like she knows the people who live in one of the houses. “Jess and Jason,” she calls them. Their life—as she sees it—is perfect. If only Rachel could be that happy. And then she sees something shocking. It’s only a minute until the train moves on, but it’s enough. Now everything’s changed. Now Rachel has a chance to become a part of the lives she’s only watched from afar. Now they’ll see; she’s much more than just the girl on the train...",
+      "pages": 336,
+      "published": 2015,
+      "genre": "Fiction",
+      "rating": 3,
+      "isASerie": "No",
+      "authorId": "_JiYOTSP",
+      "id": 29
+    },
+    {
+      "title": "The Truth About the Harry Quebert Affair",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390823963i/20641498.jpg",
+      "author": "Joël Dicker",
+      "summary": "That summer Harry Quebert fell in love with fifteen-year-old Nola Kellergan. Thirty-three years later, her body is dug up from his yard along with a manuscript copy of his career-defining novel. Quebert is the only suspect. Marcus Goldman – Quebert’s most gifted protégé – throws off his writer’s block to clear his mentor’s name. Solving the case and penning a new bestseller soon blur together. As his book begins to take on a life of its own, the nation is gripped by the mystery of ‘The Girl Who Touched the Heart of America’. But with Nola, in death as in life, nothing is ever as it seems. ",
+      "pages": 624,
+      "published": 2012,
+      "genre": "Mystery",
+      "rating": 4,
+      "isASerie": "No",
+      "authorId": "_JsYOTSP",
+      "id": 30
+    },    
+    {
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636978687i/58784475.jpg",
+      "author": "Gabrielle Zevin",
+      "summary": "On a bitter-cold day, in the December of his junior year at Harvard, Sam Masur exits a subway car and sees, amid the hordes of people waiting on the platform, Sadie Green. He calls her name. For a moment, she pretends she hasn't heard him, but then, she turns, and a game begins: a legendary collaboration that will launch them to stardom. These friends, intimates since childhood, borrow money, beg favors, and, before even graduating college, they have created their first blockbuster, Ichigo. Overnight, the world is theirs. Not even twenty-five years old, Sam and Sadie are brilliant, successful, and rich, but these qualities won't protect them from their own creative ambitions or the betrayals of their hearts. ",
+      "pages": 624,
+      "published": 2012,
+      "genre": "Contemporary",
+      "rating": 4,
+      "isASerie": "No",
+      "authorId": "_LsYOTSP",
+      "id": 31
     }
   ],
   "authors": [
