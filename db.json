@@ -1,16 +1,27 @@
 {
   "books": [
     {
-      "id": 1,
       "title": "The Poppy War",
-      "author": "R.F. Kuang",
       "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515692316i/35887181.jpg",
-      "published": 2018,
+      "author": "R.F. Kuang",
+      "summary": "When Rin aced the Keju — the Empire-wide test to find the most talented youth to learn at the Academies — it was a shock to everyone: to the test officials, who couldn’t believe a war orphan from Rooster Province could pass without cheating; to Rin’s guardians, who believed they’d finally be able to marry her off and further their criminal enterprise; and to Rin herself, who realized she was finally free of the servitude and despair that had made up her daily existence. That she got into Sinegard — the most elite military school in Nikan — was even more surprising. But surprises aren’t always good. Because being a dark-skinned peasant girl from the south is not an easy thing at Sinegard. Targeted from the outset by rival classmates for her color, poverty, and gender, Rin discovers she possesses a lethal, unearthly power — an aptitude for the nearly-mythical art of shamanism. Exploring the depths of her gift with the help of a seemingly insane teacher and psychoactive substances, Rin learns that gods long thought dead are very much alive — and that mastering control over those powers could mean more than just surviving school. For while the Nikara Empire is at peace, the Federation of Mugen still lurks across a narrow sea. The militarily advanced Federation occupied Nikan for decades after the First Poppy War, and only barely lost the continent in the Second. And while most of the people are complacent to go about their lives, a few are aware that a Third Poppy War is just a spark away. Rin’s shamanic powers may be the only way to save her people. But as she finds out more about the god that has chosen her, the vengeful Phoenix, she fears that winning the war may cost her humanity ... and that it may already be too late.",
       "pages": 527,
+      "published": null,
+      "genre": "Fantasy",
+      "rating": 5,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "The Dragon Republic",
+      "author": "R.F. Kuang",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539963703i/41118857.jpg",
+      "published": 2019,
+      "pages": 658,
       "genre": "Fantasy",
       "serie": true,
-      "summary": "When Rin aced the Keju — the Empire-wide test to find the most talented youth to learn at the Academies — it was a shock to everyone: to the test officials, who couldn’t believe a war orphan from Rooster Province could pass without cheating; to Rin’s guardians, who believed they’d finally be able to marry her off and further their criminal enterprise; and to Rin herself, who realized she was finally free of the servitude and despair that had made up her daily existence. That she got into Sinegard — the most elite military school in Nikan — was even more surprising. But surprises aren’t always good. Because being a dark-skinned peasant girl from the south is not an easy thing at Sinegard. Targeted from the outset by rival classmates for her color, poverty, and gender, Rin discovers she possesses a lethal, unearthly power — an aptitude for the nearly-mythical art of shamanism. Exploring the depths of her gift with the help of a seemingly insane teacher and psychoactive substances, Rin learns that gods long thought dead are very much alive — and that mastering control over those powers could mean more than just surviving school. For while the Nikara Empire is at peace, the Federation of Mugen still lurks across a narrow sea. The militarily advanced Federation occupied Nikan for decades after the First Poppy War, and only barely lost the continent in the Second. And while most of the people are complacent to go about their lives, a few are aware that a Third Poppy War is just a spark away. Rin’s shamanic powers may be the only way to save her people. But as she finds out more about the god that has chosen her, the vengeful Phoenix, she fears that winning the war may cost her humanity ... and that it may already be too late.",
-      "rating": 5,
+      "summary": "In the aftermath of the Third Poppy War, shaman and warrior Rin is on the run: haunted by the atrocity she committed to end the war, addicted to opium, and hiding from the murderous commands of her vengeful god, the fiery Phoenix. Her only reason for living is to get revenge on the traitorous Empress who sold out Nikan to their enemies. With no other options, Rin joins forces with the powerful Dragon Warlord, who has a plan to conquer Nikan, unseat the Empress, and create a new Republic. Rin throws herself into his war. After all, making war is all she knows how to do. But the Empress is a more powerful foe than she appears, and the Dragon Warlord’s motivations are not as democratic as they seem. The more Rin learns, the more she fears her love for Nikan will drive her away from every ally and lead her to rely more and more on the Phoenix’s deadly power. Because there is nothing she won’t sacrifice for her country and her vengeance.",
+      "rating": 4,
       "read": false,
       "review": "",
       "authorId": "_lJiYON"
@@ -24,7 +35,8 @@
       "published": null,
       "genre": "Fantasy",
       "rating": 4,
-      "id": 3
+      "id": 3,
+      "authorId": "_lJiYON"
     },
     {
       "id": 4,
@@ -355,15 +367,54 @@
       "read": false,
       "review": "",
       "authorId": "_lJiYONA"
+    },
+    {
+      "title": "The Hunger Games",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg",
+      "author": "Suzanne Collins",
+      "summary": "In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV.\nSixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she steps forward to take her sister's place in the Games. But Katniss has been close to dead before—and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weight survival against humanity and life against love.",
+      "pages": 374,
+      "published": 2008,
+      "genre": "Fiction",
+      "rating": 4,
+      "isASerie": "Yes",
+      "id": 26,
+      "authorId": "_JiYOMSP"
+    },
+    {
+      "title": "Catching Fire",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722941i/6148028.jpg",
+      "author": "Suzanne Collins",
+      "summary": "Against all odds, Katniss Everdeen has won the Hunger Games. She and fellow District 12 tribute Peeta Mellark are miraculously still alive. Katniss should be relieved, happy even. After all, she has returned to her family and her longtime friend, Gale. Yet nothing is the way Katniss wishes it to be. Gale holds her at an icy distance. Peeta has turned his back on her completely. And there are whispers of a rebellion against the Capitol—a rebellion that Katniss and Peeta may have helped create.\nMuch to her shock, Katniss has fueled an unrest that she's afraid she cannot stop. And what scares her even more is that she's not entirely convinced she should try. As time draws near for Katniss and Peeta to visit the districts on the Capitol's cruel Victory Tour, the stakes are higher than ever. If they can't prove, without a shadow of a doubt, that they are lost in their love for each other, the consequences will be horrifying.\nIn Catching Fire, the second novel of the Hunger Games trilogy, Suzanne Collins continues the story of Katniss Everdeen, testing her more than ever before . . . and surprising readers at every turn.",
+      "pages": 391,
+      "published": 2009,
+      "genre": "Fiction",
+      "rating": 5,
+      "isASerie": "Yes",
+      "id": 27,
+      "authorId": "_JiYOMSP"
+    },
+    {
+      "title": "Mockingjay",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722918i/7260188.jpg",
+      "author": "Suzanne Collins",
+      "summary": "Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss's family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding.\nIt is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans—except Katniss.\nThe success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay—no matter what the personal cost.",
+      "pages": 390,
+      "published": 2010,
+      "genre": "Fiction",
+      "rating": 4,
+      "isASerie": "Yes",
+      "authorId": "_JiYOMSP",
+      "id": 28
     }
   ],
   "authors": [
     {
-      "id": "_lJiYONA",
       "fullName": "Arturo Perez-Reverte",
+      "image": "https://images.gr-assets.com/authors/1415196332p8/40398.jpg",
       "location": "Spain",
       "description": "Arturo Pérez-Reverte Gutiérrez, is a Spanish novelist and ex-journalist. He worked as a war reporter for twenty-one years (1973 - 1994). He started his journalistic career writing for the now-defunct newspaper Pueblo. Then, he jumped to news reporter for TVE, Spanish national channel. As a war journalist he traveled to several countries, covering many conflicts. He put this experience into his book 'Territorio Comanche', focusing on the years of Bosnian massacres. That was in 1994, but his debut as a fiction writer started in 1983, with 'El húsar', a historical novella inspired in the Napoleonic era. Although his debut was not quite successful, in 1988, with 'The Fencing Master', he put his name as a serious writer of historic novels. That was confirmed in 1996, when was published the first book of his Captain Alatriste saga, which has been his trademark. After this book, he could leave definitely journalism for focusing on his career as a fiction writer. This saga, that happens in the years of the Spanish golden age, has seen, for now, seven volumes, where Pérez-Reverte shows, from his particular point of view, historical events from Spanish history in the 16th century. Apart from these, he also penned another successful works like Dumas Club and Flanders Panel, titles that, among others, made Pérez-Reverte one of the most famous and bestseller authors of Spanish fiction of our era.",
-      "image": "https://images.gr-assets.com/authors/1415196332p8/40398.jpg"
+      "id": "_lJiYONA"
     },
     {
       "fullName": "Jennifer L. Armentrout",
@@ -427,6 +478,34 @@
       "description": "Sarah is a 1 New York Times bestselling author whose work, including the Throne of Glass series, is an international best-selling phenomenon. Her books have sold over nine million copies and are published in thirty-seven languages. Sarah was born in New York City but currently lives in Pennsylvania with her husband, son, and dog.",
       "id": "_lJiYOMS",
       "image": "https://images.gr-assets.com/authors/1582137198p8/3433047.jpg"
+    },
+    {
+      "fullName": "Suzanne Collins",
+      "location": "EE.UU",
+      "description": "His career began in 1991 as a scriptwriter on children's television programs working for channels such as Nickelodeon. While working on the show Generation O! from Kid's WBOOK, she met children's book writer James Plumiew who inspired her to write children's books of her own. In 2003 he published his first novel Gregory: The Lowlands, inspired by the novel Alice's Adventures in Wonderland. This book would be followed by four others as part of the Lowland Chronicles saga. In 2005 he published a picture book with rhyming texts, illustrated by Mike Lester, titled When Charlie McButton Lost Power. In 2008 she published the novel for which she would become famous, The Hunger Games, inspired by the Greek myth of Theseus and the minotaur; In this regard, Collins stated: Crete was sending a very clear message: 'Mess with us and we are going to do something worse than kill: we are going to kill your children. However, it has been commented in some quarters that Collins was based entirely on the acclaimed 1999 book, Battle Royale, by Japanese writer Koushun Takami. In 2009 and 2010 he published the novels that completed the trilogy: Catching Fire and Mockingjay. The series has 26 foreign editions.",
+      "id": "_JiYOMSP",
+      "image": "https://images.gr-assets.com/authors/1630199330p8/153394.jpg"
     }
+  ],
+  "reviews": [
+    {
+      "id": "jhdHls",
+      "bookId": 18,
+      "userName": "Gemma",
+      "bookTitle": "A court of Frost and Starlight",
+      "comment": "I loved how the writer managed to keep me so hooked on this book. A perfect saga for the moment!",
+      "bookPages": 232,
+      "progress": 175
+    },
+    {
+      "id": "sdavrv",
+      "bookId": 2,
+      "userName": "Núria",
+      "bookTitle": "The Dragon Republic",
+      "comment": "Loved the first one, got the second one right after!! So far, enjoying it so much! Rin might be one of my favorite female characters ever",
+      "bookPages": 658,
+      "progress": 163
+    }
+    
   ]
 }
