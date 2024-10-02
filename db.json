@@ -84,19 +84,15 @@
       "authorId": "_lJiYOD"
     },
     {
-      "id": 7,
       "title": "Loba negra",
-      "author": "Juan Gómez-Jurado",
       "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572791309i/46202074.jpg",
-      "published": 2019,
-      "pages": 552,
-      "genre": "Thriller",
-      "serie": true,
+      "author": "Juan Gómez-Jurado",
       "summary": "SEGUIR VIVA Antonia Scott no tiene miedo a nada. Solo a sí misma. NUNCA FUE Pero hay alguien más peligroso que ella. Alguien que podría vencerla. TAN DIFÍCIL La Loba negra está cada vez más cerca. Y Antonia, por primera vez, está asustada.",
+      "pages": 552,
+      "published": null,
+      "genre": "Thriller",
       "rating": 4,
-      "read": false,
-      "review": "",
-      "authorId": "_lJiYOD"
+      "id": 7
     },
     {
       "id": 8,
@@ -432,7 +428,7 @@
       "isASerie": "No",
       "authorId": "_JsYOTSP",
       "id": 30
-    },    
+    },
     {
       "title": "Tomorrow, and Tomorrow, and Tomorrow",
       "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636978687i/58784475.jpg",
@@ -566,6 +562,5 @@
       "bookPages": 658,
       "progress": 163
     }
-    
   ]
 }
