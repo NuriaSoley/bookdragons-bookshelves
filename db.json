@@ -2,14 +2,15 @@
   "books": [
     {
       "title": "The Poppy War",
-      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515692316i/35887181.jpg",
       "author": "R.F. Kuang",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515692316i/35887181.jpg",
       "summary": "When Rin aced the Keju — the Empire-wide test to find the most talented youth to learn at the Academies — it was a shock to everyone: to the test officials, who couldn’t believe a war orphan from Rooster Province could pass without cheating; to Rin’s guardians, who believed they’d finally be able to marry her off and further their criminal enterprise; and to Rin herself, who realized she was finally free of the servitude and despair that had made up her daily existence. That she got into Sinegard — the most elite military school in Nikan — was even more surprising. But surprises aren’t always good. Because being a dark-skinned peasant girl from the south is not an easy thing at Sinegard. Targeted from the outset by rival classmates for her color, poverty, and gender, Rin discovers she possesses a lethal, unearthly power — an aptitude for the nearly-mythical art of shamanism. Exploring the depths of her gift with the help of a seemingly insane teacher and psychoactive substances, Rin learns that gods long thought dead are very much alive — and that mastering control over those powers could mean more than just surviving school. For while the Nikara Empire is at peace, the Federation of Mugen still lurks across a narrow sea. The militarily advanced Federation occupied Nikan for decades after the First Poppy War, and only barely lost the continent in the Second. And while most of the people are complacent to go about their lives, a few are aware that a Third Poppy War is just a spark away. Rin’s shamanic powers may be the only way to save her people. But as she finds out more about the god that has chosen her, the vengeful Phoenix, she fears that winning the war may cost her humanity ... and that it may already be too late.",
       "pages": 527,
       "published": 2018,
       "genre": "Fantasy",
       "rating": 5,
-      "id": 1
+      "id": 1,
+      "authorId": "_lJiYON"
     },
     {
       "id": 2,
@@ -448,7 +449,7 @@
       "fullName": "Arturo Perez-Reverte",
       "image": "https://images.gr-assets.com/authors/1415196332p8/40398.jpg",
       "location": "Spain",
-      "description": "Arturo Pérez-Reverte Gutiérrez, is a Spanish novelist and ex-journalist. He worked as a war reporter for twenty-one years (1973 - 1994). He started his journalistic career writing for the now-defunct newspaper Pueblo. Then, he jumped to news reporter for TVE, Spanish national channel. As a war journalist he traveled to several countries, covering many conflicts. He put this experience into his book 'Territorio Comanche', focusing on the years of Bosnian massacres. That was in 1994, but his debut as a fiction writer started in 1983, with 'El húsar', a historical novella inspired in the Napoleonic era. Although his debut was not quite successful, in 1988, with 'The Fencing Master', he put his name as a serious writer of historic novels. That was confirmed in 1996, when was published the first book of his Captain Alatriste saga, which has been his trademark. After this book, he could leave definitely journalism for focusing on his career as a fiction writer. This saga, that happens in the years of the Spanish golden age, has seen, for now, seven volumes, where Pérez-Reverte shows, from his particular point of view, historical events from Spanish history in the 16th century. Apart from these, he also penned another successful works like Dumas Club and Flanders Panel, titles that, among others, made Pérez-Reverte one of the most famous and bestseller authors of Spanish fiction of our era.",
+      "description": "Arturo Pérez-Reverte Gutiérrez, is a Spanish novelist and ex-journalist. He worked as a war reporter for twenty-one years (1973 - 1994). He started his journalistic career writing for the now-defunct newspaper Pueblo.\nThen, he jumped to news reporter for TVE, Spanish national channel. As a war journalist he traveled to several countries, covering many conflicts. He put this experience into his book 'Territorio Comanche', focusing on the years of Bosnian massacres. That was in 1994, but his debut as a fiction writer started in 1983, with 'El húsar', a historical novella inspired in the Napoleonic era. Although his debut was not quite successful, in 1988, with 'The Fencing Master', he put his name as a serious writer of historic novels. That was confirmed in 1996, when was published the first book of his Captain Alatriste saga, which has been his trademark. After this book, he could leave definitely journalism for focusing on his career as a fiction writer. This saga, that happens in the years of the Spanish golden age, has seen, for now, seven volumes, where Pérez-Reverte shows, from his particular point of view, historical events from Spanish history in the 16th century. Apart from these, he also penned another successful works like Dumas Club and Flanders Panel, titles that, among others, made Pérez-Reverte one of the most famous and bestseller authors of Spanish fiction of our era.",
       "id": "_lJiYONA"
     },
     {
@@ -463,49 +464,49 @@
       "location": "EE.UU.",
       "description": "Rebecca F. Kuang is a Marshall Scholar, translator, and award-winning, #1 New York Times bestselling author of the Poppy War trilogy and Babel: An Arcane History, among others. She has an MPhil in Chinese Studies from Cambridge and an MSc in Contemporary Chinese Studies from Oxford; she is now pursuing a PhD in East Asian Languages and Literatures at Yale.",
       "id": "_lJiYON",
-      "image": "https://images.gr-assets.com/authors/1663158288p8/16820001.jpg"
+      "image": "https://m.media-amazon.com/images/S/amzn-author-media-prod/umpnc66l5eqe18rfv4onsn045c.jpg"
     },
     {
       "fullName": "Lisa Jewell",
       "location": "United Kingdom",
       "description": "Lisa Jewell was born in London in 1968. Her first novel, Ralph's Party, was the best- selling debut novel of 1999. Since then she has written another twenty novels, most recently a number of dark psychological thrillers, including The Girls, Then She Was Gone, The Family Upstairs and The Night She Disappeared. Lisa is a New York Times and Sunday Times number one bestselling author who has been published worldwide in over twenty-five languages. She lives in north London with her husband, two teenage daughters and the best dog in the world.",
       "id": "_lJiYOC",
-      "image": "https://images.gr-assets.com/authors/1657723367p8/93504.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Lisa_Jewell_Official_Author_Photo.jpg"
     },
     {
       "fullName": "Juan Gomez-Jurado",
       "location": "Spain",
       "description": "Juan Gómez-Jurado (December 1977 Madrid, Spain) is an award winning journalist and bestselling author. He is one of the three most successful contemporary Spanish authors along with New York Times bestselling authors Javier Sierra and Carlos Ruiz Zafón. In 2016, Juan celebrated the mark of 6 million readers worldwide. Juan is the author of nine international bestselling novels: GOD’S SPY, THE MOSES EXPEDITION, THE TRAITOR'S EMBLEM, THE LEGEND OF THE THIEF, SCAR, RED QUEEN, BLACK WOLF and WHITE KING. They have been translated into more than 40 languages. He is also the author of the young adult science-fiction series, ALEX COLT SPACE CADET. Juan is an avid reader and traveller. He lives in Spain with Sam, his bad behaviored dog.",
       "id": "_lJiYOD",
-      "image": "https://images.gr-assets.com/photos/1680966295p8/4222385.jpg"
+      "image": "https://i0.wp.com/juangomezjurado.com/wp-content/uploads/2020/10/Juan_Gomez_Jurado_avatar.jpg?fit=350%2C466&ssl=1"
     },
     {
       "fullName": "Emily Henry",
       "location": "EE.UU.",
       "description": "Emily Henry is the #1 New York Times bestselling author of Book Lovers, People We Meet on Vacation, and Beach Read, as well as the forthcoming Happy Place. She lives and writes in Cincinnati and the part of Kentucky just beneath it",
       "id": "_lJiYOU",
-      "image": "https://images.gr-assets.com/authors/1573928938p8/13905555.jpg"
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/emily-henry-jp-230424-1d9d65.jpg"
     },
     {
       "fullName": "Ellie Palmer",
       "location": "EE.UU",
       "description": "Ellie Palmer is a lifelong lover of love stories, a carrier of the BRCA1 mutation, and a prototypical Midwesterner who routinely apologizes to inanimate objects when she bumps into them. When she’s not writing romantic comedies featuring delightfully messy characters, she’s at home in Minnesota, eating breakfast food, watching too much reality television, and triple texting her husband about their son.",
       "id": "_lJiYOMSW",
-      "image": "https://images.gr-assets.com/authors/1703544140p8/25191961.jpg"
+      "image": "https://www.usmagazine.com/wp-content/uploads/2024/08/Author-Ellie-Palmer-Talks-%E2%80%98While-You-Were-Sleeping-Inspiration-in-Debut-Rom-Com-Questions-Answered-1.jpg?w=1200&quality=86&strip=all"
     },
     {
       "fullName": "Colleen Hoover",
       "location": "EE.UU",
       "description": "She grew up in Saltillo, Texas, and graduated from Saltillo High School3​ in 1998. She continued her studies at Texas A&M University-Commerce4​ where she studied social work. She began writing at the age of five but it was not until 2012 that she published her first novel, Amor en verso, which quickly made it onto the New York Times best-seller list. That episode was the beginning that boosted her to become the number one author on the New York Times in 2014 with her book, Maybe Someday, a novel that contains a soundtrack that was made with the collaboration of composer Griffin Peterson. Thanks to this, many reviews were created talking about her works and she even received scores from major platforms.",
       "id": "_lJiYOMP",
-      "image": "https://images.gr-assets.com/authors/1464032240p8/5430144.jpg"
+      "image": "https://www.planetadelibros.com.mx/usuaris/autores/fotos/50/original/000049678_1_Colleen_Hoover-@Chad_Griffith_202203011717.png"
     },
     {
       "fullName": "Brandon Sanderson",
       "location": "EE.UU",
       "description": "Brandon Sanderson is an American science fiction and fantasy writer. He is best known for the Cosmere universe, in which most of his fantasy novels are set, including the Mistborn and The Stormlight Archive series. Outside of the Cosmere, he has written several young adult and juvenile series, including The Reckoners, the Skyward series, and the Alcatraz series. He is also known for having completed Robert Jordan's high fantasy series The Wheel of Time. Sanderson has created several fantasy graphic novels, including White Sand and Dark One.",
       "id": "_lJiYOMl",
-      "image": "https://images.gr-assets.com/authors/1721927489p8/38550.jpg"
+      "image": "https://uploads.coppermind.net/thumb/BrandonSanderson.jpg/1200px-BrandonSanderson.jpg"
     },
     {
       "fullName": "Sarah J. Maas",
@@ -519,7 +520,7 @@
       "location": "EE.UU",
       "description": "His career began in 1991 as a scriptwriter on children's television programs working for channels such as Nickelodeon. While working on the show Generation O! from Kid's WBOOK, she met children's book writer James Plumiew who inspired her to write children's books of her own. In 2003 he published his first novel Gregory: The Lowlands, inspired by the novel Alice's Adventures in Wonderland. This book would be followed by four others as part of the Lowland Chronicles saga. In 2005 he published a picture book with rhyming texts, illustrated by Mike Lester, titled When Charlie McButton Lost Power. In 2008 she published the novel for which she would become famous, The Hunger Games, inspired by the Greek myth of Theseus and the minotaur; In this regard, Collins stated: Crete was sending a very clear message: 'Mess with us and we are going to do something worse than kill: we are going to kill your children. However, it has been commented in some quarters that Collins was based entirely on the acclaimed 1999 book, Battle Royale, by Japanese writer Koushun Takami. In 2009 and 2010 he published the novels that completed the trilogy: Catching Fire and Mockingjay. The series has 26 foreign editions.",
       "id": "_JiYOMSP",
-      "image": "https://images.gr-assets.com/authors/1630199330p8/153394.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Suzanne_Collins_David_Shankbone_2010.jpg/1200px-Suzanne_Collins_David_Shankbone_2010.jpg"
     },
     {
       "fullName": "Joël Dicker",
@@ -533,7 +534,7 @@
       "location": "Zimbabwe",
       "description": "Paula Hawkins is the author of the #1 New York Times bestseller The Girl on the Train, which was made into a major motion picture.",
       "id": "_JiYOTSP",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Paula_Hawkins_G%C3%B6teborg_Book_Fair_2015.jpg"
+      "image": "https://images.mubicdn.net/images/cast_member/527298/cache-353482-1531119718/image-w856.jpg"
     },
     {
       "fullName": "Gabrielle Zevin",
@@ -541,6 +542,13 @@
       "description": "Gabrielle Zevin is a New York Times best-selling novelist whose books have been translated into forty languages. Her tenth novel, Tomorrow, and Tomorrow, and Tomorrow was published by Knopf in July of 2022 and was an instant New York Times Best Seller, a Sunday Times Best Seller, a USA Today Best Seller, a #1 National Indie Best Seller, and a selection of the Tonight Show’s Fallon Book Club. Maureen Corrigan of NPR’s Fresh Air called it, “a big beautifully written novel…that succeeds in being both serious art and immersive entertainment.” Following a twenty-five-bidder auction, the feature film rights to Tomorrow, and Tomorrow, and Tomorrow were acquired by Temple Hill and Paramount Studios.",
       "id": "_LsYOTSP",
       "image": "https://images.gr-assets.com/authors/1503541462p8/40593.jpg"
+    },
+    {
+      "fullName": "Tu",
+      "location": "",
+      "description": "",
+      "image": "",
+      "id": "y-G0G-1"
     }
   ],
   "reviews": [
