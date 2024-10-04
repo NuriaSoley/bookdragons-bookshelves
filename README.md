@@ -59,8 +59,7 @@ This repository is a [json-server](https://github.com/typicode/json-server) crea
 | GET         | `/books/:booksId`            |                     | Returns an object with the book details                                    |
 | GET        | `/authors/:authorId`            |   | Returns an object with the author details                                            |
 | POST      | `/authors`            | { fullName, location, description}      | Creates a new author object                                         |
-| PUT        | `/books/:bookId`    `/authors/:authorId `             |    {title, author, image, published, pages, genre, serie,summary,
-rating, read, review}    | Updates all details of a single book                                              |
+| PUT        | `/books/:bookId`    `/authors/:authorId `             |    {title, author, image, published, pages,genre, serie,summary, rating, read, review}    | Updates all details of a single book                                              |
 | PATCH        | `/books/:bookId`     `/authors/:authorId `             | {ratings}               | Updates rating property of a single book                                            |
 | DELETE       | `/books/:bookId`                |               | Deletes a single book                                                 |
 | GET      | `/authors/:authorId?_embed=books`            |                      | Returns a single author and all their books
@@ -84,4 +83,4 @@ rating, read, review}    | Updates all details of a single book                 
 
 ### Slides
 
-[Slides Link](www.your-slides-url-here.com)
+[Slides Link](https://docs.google.com/presentation/d/1eXAty8IN5bckDhSq4J5fIyImB5t4WJw90FDAqiTkndI/edit#slide=id.g3084cdf60cb_0_60)
