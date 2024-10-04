@@ -61,7 +61,8 @@
       "published": null,
       "genre": "Thriller",
       "rating": 3,
-      "id": 5
+      "id": 5,
+      "authorId": "_lJiYOC"
     },
     {
       "id": 6,
@@ -112,7 +113,8 @@
       "published": null,
       "genre": "Romance",
       "rating": 5,
-      "id": 9
+      "id": 9,
+      "authorId": "_lJiYOU"
     },
     {
       "id": 10,
@@ -199,17 +201,15 @@
       "authorId": "_lJiYOMS"
     },
     {
-      "id": 16,
       "title": "A court of Mist and Fury",
-      "author": "Sarah J. Maas",
       "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620325671i/50659468.jpg",
-      "published": 2016,
-      "pages": 626,
-      "genre": "Romantasy",
+      "author": "Sarah J. Maas",
       "summary": "The seductive and stunning #1 Ne Feyre has undergone more trials than one human woman can carry in her heart. Though she's now been granted the powers and lifespan of the High Fae, she is haunted by her time Under the Mountain and the terrible deeds she performed to save the lives of Tamlin and his people. As her marriage to Tamlin approaches, Feyre's hollowness and nightmares consume her. She finds herself split into two different one who upholds her bargain with Rhysand, High Lord of the feared Night Court, and one who lives out her life in the Spring Court with Tamlin. While Feyre navigates a dark web of politics, passion, and dazzling power, a greater evil looms. She might just be the key to stopping it, but only if she can harness her harrowing gifts, heal her fractured soul, and decide how she wishes to shape her future-and the future of a world in turmoil. Bestselling author Sarah J. Maas's masterful storytelling brings this second book in her dazzling, sexy, action-packed series to new heights.",
+      "pages": 626,
+      "published": null,
+      "genre": "Romantasy",
       "rating": 5,
-      "read": false,
-      "review": "",
+      "id": 16,
       "authorId": "_lJiYOMS"
     },
     {
@@ -409,6 +409,18 @@
       "rating": 4,
       "authorId": "_LsYOTSP",
       "id": 31
+    },
+    {
+      "title": "Harry Potter and the Sorcerer’s Stone",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598823299i/42844155.jpg",
+      "author": "J.K. Rowling",
+      "summary": "\"Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'.\"\n\nHarry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin!",
+      "pages": 333,
+      "published": 1997,
+      "genre": "Fiction",
+      "rating": 4,
+      "id": 32,
+      "authorId": "Pa5G6WE"
     }
   ],
   "authors": [
@@ -509,6 +521,13 @@
       "description": "Gabrielle Zevin is a New York Times best-selling novelist whose books have been translated into forty languages. Her tenth novel, Tomorrow, and Tomorrow, and Tomorrow was published by Knopf in July of 2022 and was an instant New York Times Best Seller, a Sunday Times Best Seller, a USA Today Best Seller, a #1 National Indie Best Seller, and a selection of the Tonight Show’s Fallon Book Club. Maureen Corrigan of NPR’s Fresh Air called it, “a big beautifully written novel…that succeeds in being both serious art and immersive entertainment.” Following a twenty-five-bidder auction, the feature film rights to Tomorrow, and Tomorrow, and Tomorrow were acquired by Temple Hill and Paramount Studios.",
       "id": "_LsYOTSP",
       "image": "https://images.gr-assets.com/authors/1503541462p8/40593.jpg"
+    },
+    {
+      "fullName": "J.K. Rowling",
+      "image": "https://images.gr-assets.com/authors/1596216614p8/1077326.jpg",
+      "location": "United Kingdom",
+      "description": "Although she writes under the pen name J.K. Rowling, pronounced like rolling, her name when her first Harry Potter book was published was simply Joanne Rowling. Anticipating that the target audience of young boys might not want to read a book written by a woman, her publishers demanded that she use two initials, rather than her full name. As she had no middle name, she chose K as the second initial of her pen name, from her paternal grandmother Kathleen Ada Bulgen Rowling. She calls herself Jo and has said, \"No one ever called me 'Joanne' when I was young, unless they were angry.\" Following her marriage, she has sometimes used the name Joanne Murray when conducting personal business. During the Leveson Inquiry she gave evidence under the name of Joanne Kathleen Rowling. In a 2012 interview, Rowling noted that she no longer cared that people pronounced her name incorrectly.",
+      "id": "Pa5G6WE"
     }
   ],
   "reviews": [
