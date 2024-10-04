@@ -104,18 +104,15 @@
       "authorId": "_lJiYOD"
     },
     {
-      "id": 9,
       "title": "Beach Read",
-      "author": "Emily Henry",
       "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589881197i/52867387.jpg",
-      "published": 2020,
-      "pages": 361,
-      "genre": "Romance",
+      "author": "Emily Henry",
       "summary": "A romance writer who no longer believes in love and a literary writer stuck in a rut engage in a summer-long challenge that may just upend everything they believe about happily ever afters. Augustus Everett is an acclaimed author of literary fiction. January Andrews writes bestselling romance. When she pens a happily ever after, he kills off his entire cast. They’re polar opposites. In fact, the only thing they have in common is that for the next three months, they’re living in neighboring beach houses, broke, and bogged down with writer’s block. Until, one hazy evening, one thing leads to another and they strike a deal designed to force them out of their creative ruts: Augustus will spend the summer writing something happy, and January will pen the next Great American Novel. She’ll take him on field trips worthy of any rom-com montage, and he’ll take her to interview surviving members of a backwoods death cult (obviously). Everyone will finish a book and no-one will fall in love. Really.",
+      "pages": 361,
+      "published": null,
+      "genre": "Romance",
       "rating": 5,
-      "read": false,
-      "review": "",
-      "authorId": "_lJiYOU"
+      "id": 9
     },
     {
       "id": 10,
@@ -487,10 +484,10 @@
     },
     {
       "fullName": "Suzanne Collins",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Suzanne_Collins_David_Shankbone_2010.jpg/1200px-Suzanne_Collins_David_Shankbone_2010.jpg",
       "location": "EE.UU",
       "description": "His career began in 1991 as a scriptwriter on children's television programs working for channels such as Nickelodeon. While working on the show Generation O! from Kid's WBOOK, she met children's book writer James Plumiew who inspired her to write children's books of her own. In 2003 he published his first novel Gregory: The Lowlands, inspired by the novel Alice's Adventures in Wonderland. This book would be followed by four others as part of the Lowland Chronicles saga. In 2005 he published a picture book with rhyming texts, illustrated by Mike Lester, titled When Charlie McButton Lost Power. In 2008 she published the novel for which she would become famous, The Hunger Games, inspired by the Greek myth of Theseus and the minotaur; In this regard, Collins stated: Crete was sending a very clear message: 'Mess with us and we are going to do something worse than kill: we are going to kill your children. However, it has been commented in some quarters that Collins was based entirely on the acclaimed 1999 book, Battle Royale, by Japanese writer Koushun Takami. In 2009 and 2010 he published the novels that completed the trilogy: Catching Fire and Mockingjay. The series has 26 foreign editions.",
-      "id": "_JiYOMSP",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Suzanne_Collins_David_Shankbone_2010.jpg/1200px-Suzanne_Collins_David_Shankbone_2010.jpg"
+      "id": "_JiYOMSP"
     },
     {
       "fullName": "Joël Dicker",
@@ -522,7 +519,7 @@
       "bookTitle": "A court of Frost and Starlight",
       "comment": "I loved how the writer managed to keep me so hooked on this book. A perfect saga for the moment!",
       "bookPages": 232,
-      "progress": 175
+      "progress": 170
     },
     {
       "id": "sdavrv",
